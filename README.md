@@ -1,5 +1,7 @@
 # Índices
-[Factory Method](https://github.com/Darlan-Jose/Padroes-de-Projeto/blob/main/Factory_Method/main.py)
+- [Factory Method](https://github.com/Darlan-Jose/Padroes-de-Projeto#factory-method)
+- [Bridge](https://github.com/Darlan-Jose/Padroes-de-Projeto#bridge)
+- [Memento](https://github.com/Darlan-Jose/Padroes-de-Projeto#memento)
 
 # Factory Method
 ## 🏗️ Estrutura do Padrão
@@ -58,3 +60,11 @@ def cliente_code(logistica: Logistica, id_pacote: str):
 cliente_code(LogisticaNacional(), "BR-123") # Produz SMS
 cliente_code(LogisticaInternacional(), "EU-987") # Produz WhatsApp
 ```
+
+---
+
+# Bridge
+
+---
+
+# Memento
