@@ -1,4 +1,5 @@
 # Índices
+[Factory Method](https://github.com/Darlan-Jose/Padroes-de-Projeto/blob/main/Factory_Method/main.py)
 
 # Factory Method
 ## 🏗️ Estrutura do Padrão
@@ -37,9 +38,12 @@ A implementação segue os papéis canônicos do Design Pattern:
     O exemplo foi consolidado em um único arquivo para facilitar a visualização didática.
     
     ``` bash
-    python main.py ou py main.py
+    python main.py
     ```
-    
+    ou
+	``` bash
+	py main.py    
+	```
 
 ## 🧪 Demonstração de Uso
 
